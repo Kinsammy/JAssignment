@@ -3,10 +3,10 @@ package Chapter2;
 
 public class Arithmetic {
 
-    private int num1;
-    private int num2;
-    public int setNum1(int num1) {
-        return num1;
+    private int number1;
+    private int number2;
+    public int setNum1(int number1) {
+        return number1;
     }
 
     public int setNum2(int num2) {
